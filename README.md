@@ -1,5 +1,7 @@
 # Test Drive Development (TDD) :taco:
 
+![TDD](https://brainhub.eu/blog/wp-content/uploads/2018/12/test-driven-development-tdd-cycle.jpg)
+
 ### Benefits
 - Simple code
 - Atomic
